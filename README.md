@@ -1,14 +1,10 @@
 # Github API Test
 
-- List repositories
-
+## List repositories
     https://api.github.com/user/repos
 
-- List branches
-
+## List branches
     https://api.github.com/repos/{owner}/{repo}/branches
 
-- Compare
-
+## Compare
     https://api.github.com/repos/{owner}/{repo}/compare/{base}...{head}
-
