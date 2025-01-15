@@ -1,4 +1,4 @@
-# Github API Test
+# Github API
 
 ## List repositories
     https://api.github.com/user/repos
