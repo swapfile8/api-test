@@ -1,24 +1,34 @@
 {
   "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:132.0) Gecko/20100101 Firefox/132.0",
   "bdys_m3u8_priority": [
+    "tos_hls3",
     "ac5634-us",
     "pdd",
     "iplay",
     "pxx",
-    "tos_hls3"
+    "lego"
   ],
   "sites": {
     "bdys": {
       "site_base_url": "https://www.xlys01.com",
-      "video_base_url": "https://vr-route.netlify.app/vr",
+      "video_base_url": "https://swapfile8.github.io/vr2/bdys",
+      "video_url_format": 3,
+      "videos": {
+      }
+    },
+    "bdys+pid": {
+      "site_base_url": "https://www.xlys01.com",
+      "video_base_url": "https://vr2-resolver.netlify.app/b/vod",
       "video_url_format": 2,
-      "videos": {}
+      "videos": {
+      }
     },
     "duboku": {
       "site_base_url": "https://u.duboku.io",
       "video_base_url": "https://swapfile8.github.io/vr2/duboku",
       "video_url_format": 3,
-      "videos": {}
+      "videos": {
+      }
     },
     "imaple": {
       "site_base_url": "https://imaple.app",
